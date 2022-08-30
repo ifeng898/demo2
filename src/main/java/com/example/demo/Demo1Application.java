@@ -10,6 +10,7 @@ public class Demo1Application {
         SpringApplication.run(Demo1Application.class, args);
         System.out.println("更新版本2");
         System.out.println("更新版本3");
+        System.out.println("更新版本4 dev");
     }
 
 }
