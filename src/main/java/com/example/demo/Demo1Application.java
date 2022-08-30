@@ -13,7 +13,6 @@ public class Demo1Application {
         System.out.println("更新版本4 dev");
         System.out.println("更新版本5 dev  ");
         System.out.println("更新版本5 master");
-
     }
 
 }
